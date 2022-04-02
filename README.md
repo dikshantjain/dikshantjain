@@ -1,10 +1,32 @@
-# Hey! , I am <a href="https://github.com/dikshantjain" target="_blank">Dikshant </a>!
+<h1 align="center">Hi 👋, I'm Dikshant</h1>
+<h3 align="center">A passionate developer</h3>
 
-I am a developer who likes solving real life problems. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshantjain&label=Profile%20views&color=0e75b6&style=flat" alt="dikshantjain" /> </p>
 
-## Languages
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dikshantjain" alt="dikshantjain" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/dikshant9o9" target="blank"><img src="https://img.shields.io/twitter/follow/dikshant9o9?logo=twitter&style=for-the-badge" alt="dikshant9o9" /></a> </p>
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.java.com/en/" target="_blank"><img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/java-white.svg#gh-dark-mode-only"></a>
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="MYSQL" width="26px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+- 🔭 I’m currently working on **Docker and Springboot**
+
+- 🌱 I’m currently learning **Quarkus , GraalVM**
+
+- 💬 Ask me about **Java, RestAPI**
+
+- 📫 How to reach me **dikshantjain1997@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dikshant9o9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dikshant9o9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dikshant-jain-bb4142173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshant-jain-bb4142173/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/dikshantjain99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dikshantjain99/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshantjain&show_icons=true&locale=en&layout=compact" alt="dikshantjain" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshantjain&show_icons=true&locale=en" alt="dikshantjain" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshantjain&" alt="dikshantjain" /></p>
