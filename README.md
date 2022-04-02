@@ -1,3 +1,3 @@
-# Introduction 
-Paragraph 1
-A software deveoper and technical architect , I like coding in Java and have developed a great interest in Docker and cloud architecture to develop efficient products which are memory and energy efficient and can be scaled up and down easily.
+# Hey! , + I am Dikshant  
+
+I am a _software developer_ who likes to solve real life problems and develop efficient products.
